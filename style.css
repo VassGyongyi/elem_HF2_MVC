@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+   
+}
+
+.container{
+    padding: 40px;
+ 
+}
+.elem{
+    height: 50px;
+    width: 50px;
+    border: 2px solid grey;
+    
+}
+ 
+.pelem{
+    color: grey;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center; 
+  
+    
+}
